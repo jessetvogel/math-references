@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Temp files
+_tmp_/
+
+# Bibtex files
+*.bib
